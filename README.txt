@@ -1,4 +1,4 @@
-BLOCKCHAIN VOTING
+# BLOCKCHAIN VOTING
 
 Elections are increasingly being scrutinized for inefficiency, lack of transparency, and potential vulnerabilities.
 As democracies around the world strive to create a more transparent, secure, and accessible voting process, 
