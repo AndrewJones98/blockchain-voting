@@ -1,20 +1,20 @@
-# BLOCKCHAIN VOTING
+# Blockchain Voting
 
 Elections are increasingly being scrutinized for inefficiency, lack of transparency, and potential vulnerabilities.
 As democracies around the world strive to create a more transparent, secure, and accessible voting process, 
 blockchain technology emerges as a promising solution.
 
-## SECURITY
+## Security
 
 Blockchain's cryptographic principles make it extremely difficult for malicious actors to alter the information once recorded. 
 This ensures that once a vote is cast, it cannot be changed.
 
-## TRANSPARENCY
+## Transparency
 
 Unlike traditional systems, blockchain allows for a transparent yet anonymous review of the voting records. 
 Any entity can verify the transactions, ensuring that the process is open and transparent while maintaining voter privacy.
 
-## EFFICIENCY
+## Efficiency
 
 The decentralized nature of blockchain allows for real-time recording and verification of transactions, making the voting process faster and more efficient.
 This can greatly reduce the time needed for vote counting and result announcement.
